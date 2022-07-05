@@ -1,0 +1,8 @@
+com\microservices\demo\kafka\admin\avro\model\DataAvroModel.class
+com\microservices\demo\kafka\avro\model\DataAvroModel$Builder.class
+com\microservices\demo\kafka\avro\model\StreamAvroModel$Builder.class
+com\microservices\demo\kafka\admin\avro\model\DataAvroModel$Builder.class
+com\microservices\demo\kafka\avro\model\DataAvroModel.class
+com\microservices\demo\kafka\admin\avro\model\StreamAvroModel$Builder.class
+com\microservices\demo\kafka\avro\model\StreamAvroModel.class
+com\microservices\demo\kafka\admin\avro\model\StreamAvroModel.class

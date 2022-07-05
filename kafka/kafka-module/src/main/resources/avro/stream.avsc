@@ -1,0 +1,13 @@
+{"namespace": "com.microservices.demo.kafka.avro.model",
+  "type": "record",
+  "name": "StreamAvroModel",
+  "fields": [
+    {"name": "symbol", "type": "string"},
+    {"name": "price", "type": "double"},
+    {"name": "time","type": "string"},
+    {"name": "quantity", "type": "double"},
+    {"name": "subTotal", "type": "double"},
+    {"name": "total", "type": "double"},
+    {"name": "order", "type": "double"}
+  ]
+}

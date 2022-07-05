@@ -1,0 +1,4 @@
+com\microservices\demo\kafka\producer\config\service\KafkaProducer.class
+com\microservices\demo\kafka\producer\config\service\impl\DataKafkaProducer.class
+com\microservices\demo\kafka\producer\config\KafkaProducerConfig.class
+com\microservices\demo\kafka\producer\config\service\impl\DataKafkaProducer$1.class

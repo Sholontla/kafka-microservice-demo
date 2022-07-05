@@ -1,0 +1,9 @@
+{"namespace": "com.microservices.demo.kafka.avro.model",
+  "type": "record",
+  "name": "DataAvroModel",
+  "fields": [
+    {"name": "symbol", "type": "string"},
+    {"name": "price", "type": "double"},
+    {"name": "time","type": "string"}
+  ]
+}
